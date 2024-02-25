@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://.io)
 <h1 align="center">Hi 👋, I'm Mostofa Hasib</h1>
 <h3 align="center">A passionate to achive my goal.I am from Bangladesh</h3>
-            <img align="right" alt="Coding" width="900" hight="350" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+            <img align="right" alt="Coding" width="900" hight="200" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasib2202&label=Profile%20views&color=0e75b6&style=flat" alt="hasib2202" /> </p>
 
