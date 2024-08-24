@@ -58,7 +58,7 @@
 ## 🚀 Let's Connect:
 
 <a href="mailto:mostofa.hasib@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mostofa.hasib@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117"/></a>
-<a href="https://www.linkedin.com/in/mostofa-hasib-21832424b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/></a>
 <a href="https://github.com/hasib2202" target="_blank"><img src="https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=Github&logoColor=000&labelColor=0D1117"/></a>
 <a href="https://www.facebook.com/profile.php?id=100077325077693&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&labelColor=0D1117&logoColor=1877F2"/></a>
 <a href="https://twitter.com/mostofahasib220" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&labelColor=0D1117&logoColor=1DA1F2"/></a>
