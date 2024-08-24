@@ -55,6 +55,30 @@
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
 
+### Studying in this moment: 
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
+
+### Areas of Interest:
+![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=Artificial-Intelligence&labelColor=0D1117)&nbsp;
+![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-0D1117?style=for-the-badge&logo=Code&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=Vue.js&labelColor=0D1117)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-0D1117?style=for-the-badge&logo=Svelte&labelColor=0D1117)&nbsp;
+
+<div align="center">
+  <br>
+  <p align="centre"><b>Total time coded since September 7 2021</b></p>  
+  <a align="center" href="https://wakatime.com/@fa93ea22-c9ab-4efe-9538-651084c8a593" title="Total time coded since April 6 2023"><img align="center" src="https://wakatime.com/badge/user/fa93ea22-c9ab-4efe-9538-651084c8a593.svg" /></a> <br>
+  <br>
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zinx110}/count.svg" /></p>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
+
+
 ## 🚀 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/)
