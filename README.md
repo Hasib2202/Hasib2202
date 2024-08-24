@@ -39,5 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasib2202&" alt="hasib2202" /></p>
 
-
-![snake gif](https://github.com/Hasib2202/Hasib2202/blob/output/github-contribution-grid-snake.svg)
