@@ -57,9 +57,10 @@
 
 ## 🚀 Let's Connect:
 
-<a href="mailto:mostofa.hasib@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mostofa.hasib@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117"/></a>
-<a href="https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/></a>
-<a href="https://github.com/hasib2202" target="_blank"><img src="https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=Github&logoColor=000&labelColor=0D1117"/></a>
-<a href="https://www.facebook.com/profile.php?id=100077325077693&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&labelColor=0D1117&logoColor=1877F2"/></a>
-<a href="https://twitter.com/mostofahasib220" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&labelColor=0D1117&logoColor=1DA1F2"/></a>
-<a href="https://instagram.com/mostofa.hasib.220" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117&logoColor=E4405F"/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/)
+[![Facebook](https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=0D1117)](https://web.facebook.com/ammostofa.hasib/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0D1117)](https://github.com/Hasib2202)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&logoColor=EA4335&labelColor=0D1117)](mailto:hasibammostofahasib@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&labelColor=0D1117)](https://x.com/mustafa_ha31613)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=0D1117)](https://www.instagram.com/ammostofa)
+
