@@ -21,7 +21,6 @@
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 ### Main Skills:
@@ -36,13 +35,16 @@
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=Three.js&labelColor=0D1117)&nbsp;
 
-### Other Skills:
+### Programming Skills:
 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c+sharp&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![.Net Framework](https://img.shields.io/badge/-.Net_Framework-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+
 
 ### Tools:
 
@@ -56,15 +58,26 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment: 
+
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
 
 ### Areas of Interest:
+
 ![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=Artificial-Intelligence&labelColor=0D1117)&nbsp;
 ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-0D1117?style=for-the-badge&logo=Code&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=Vue.js&labelColor=0D1117)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-0D1117?style=for-the-badge&logo=Svelte&labelColor=0D1117)&nbsp;
+
+## 🚀 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/)
+[![Facebook](https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=0D1117)](https://web.facebook.com/ammostofa.hasib/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0D1117)](https://github.com/Hasib2202)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&logoColor=EA4335&labelColor=0D1117)](mailto:hasibammostofahasib@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&labelColor=0D1117)](https://x.com/mustafa_ha31613)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=0D1117)](https://www.instagram.com/ammostofa)
 
 <div align="center">
   <br>
@@ -78,12 +91,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
 
-
-## 🚀 Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=0D1117)](https://web.facebook.com/ammostofa.hasib/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0D1117)](https://github.com/Hasib2202)
-[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&logoColor=EA4335&labelColor=0D1117)](mailto:hasibammostofahasib@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&labelColor=0D1117)](https://x.com/mustafa_ha31613)
-[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=0D1117)](https://www.instagram.com/ammostofa)
