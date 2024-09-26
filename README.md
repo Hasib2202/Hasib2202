@@ -1,4 +1,3 @@
-111
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=MD+MOSTOFA+HASIB&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Mostofa+Hasib;I'm+from+Bangladesh;Full-Stack+Developer+with+Backend+and+Frontend+Skills;Proficient+in+TypeScript,+Python,+ExpressJS,+and+NestJS;Currently+studying+at+AIUB)](https://git.io/typing-svg)
