@@ -23,6 +23,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 
 ### Main Skills:
 
