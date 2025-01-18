@@ -1,4 +1,4 @@
-
+..
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=MD+MOSTOFA+HASIB&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Mostofa+Hasib;I'm+from+Bangladesh;Full-Stack+Developer+with+Backend+and+Frontend+Skills;Proficient+in+TypeScript,+Python,+ExpressJS,+and+NestJS;Currently+studying+at+AIUB)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 <!--  ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=hasib2202&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Mostofa Hasib's GitHub Stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib2202&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,c#,Jupyter Notebook" />
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib2202&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" />
 </div>
 
 <!-- ./Contribution Streak  -->
