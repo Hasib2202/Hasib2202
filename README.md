@@ -1,334 +1,184 @@
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                          HEADER + HERO                              -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b2e,60:16213e,100:0f3460&height=220&section=header&text=MD.%20MOSTOFA%20HASIB&fontSize=42&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descColor=8892b0&descAlignY=58&descAlign=50" width="100%" />
-
 <div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:1a1b2e&height=160&section=header&text=&fontSize=0&reversal=true" width="100%"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/">
-  <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-</a>&ensp;
-<a href="https://github.com/Hasib2202">
-  <img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-</a>&ensp;
-<a href="mailto:hasibammostofahasib@gmail.com">
-  <img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-</a>&ensp;
-<a href="https://x.com/mustafa_ha31613">
-  <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" height="28" />
-</a>&ensp;
-<a href="https://www.instagram.com/ammostofa">
-  <img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-</a>
+# &nbsp; 𝙈𝘿. 𝙈𝙊𝙎𝙏𝙊𝙁𝘼 𝙃𝘼𝙎𝙄𝘽 &nbsp;
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Architecture+Enthusiast" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Building+enterprise+solutions+%7C+Shipping+quality+code" />
+<br>
+
+<a href="https://www.linkedin.com/in/md-mostofa-hasib-5b4027184/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Hasib2202"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:hasibammostofahasib@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/mustafa_ha31613"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/ammostofa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <br>
 
 </div>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                          ABOUT CARD                                  -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     AT A GLANCE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `$ whoami`
+
+> CS graduate from **AIUB** (CGPA **3.91/4.00**) · Dean's List Honoree · Currently engineering enterprise solutions at **Wafi Solutions** and building scalable web apps at **Gradmate.ai** — based in Dhaka, Bangladesh.
+
+<div align="center">
+
+| 🎓 Education | 💼 Current Roles | 🏆 Recognition |
+|:---:|:---:|:---:|
+| B.Sc. in CSE, AIUB | Junior SWE @ Wafi Solutions | Dean's List (2× Semesters) |
+| CGPA: **3.91** / 4.00 | Junior SWD @ Gradmate.ai | Academic Scholarship Holder |
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     EXPERIENCE TIMELINE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `$ cat experience.log`
+
+```
+  Nov 2025 ─── Present
+  │
+  ├─── 🏢 Junior Software Engineer · Wafi Solutions (Full-time)
+  │    │
+  │    ├── Enterprise apps with ABP Framework (ABP.io) + ASP.NET across the full SDLC
+  │    ├── Backend services: C#, ASP.NET Core, Web API, Entity Framework · Clean Architecture
+  │    ├── PostgreSQL — performance tuning & data integrity
+  │    ├── Frontend: Angular + TypeScript
+  │    └── Agile workflow with Jira & Slack
+  │
+  │
+  Jun 2025 ─── Present
+  │
+  ├─── 🚀 Junior Software Developer · Gradmate.ai (Full-time)
+  │    │
+  │    ├── Full-stack features: Next.js (frontend) + Python/FastAPI (backend)
+  │    └── Scalable, user-centric web applications in an agile team
+  │
+  │
+  Oct 2024 ─── Mar 2025
+  │
+  └─── 🧪 Full Stack Developer Intern · Generation Next IT Solution Ltd
+       │
+       ├── ERP modules: E-commerce, Bank Management, Stock, Sales
+       ├── ASP.NET / ASP.NET Core / SQL Server
+       ├── Desktop email reminder app (.NET Framework + SMTP)
+       ├── Crystal Reports for dynamic data-driven reporting
+       └── Production deployments & troubleshooting
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `$ ls tech-stack/`
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td align="center" width="33%">
 
-<br>
-
-&emsp;&emsp; 🎓 &ensp; **B.Sc. in CSE** &nbsp;·&nbsp; American International University-Bangladesh &nbsp;·&nbsp; **CGPA 3.91/4.00** &emsp;&emsp;
-
-&emsp;&emsp; 📍 &ensp; Dhaka, Bangladesh &emsp;&emsp;
-
-&emsp;&emsp; ⚡ &ensp; Interests: Full-Stack Development &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Clean Architecture &nbsp;·&nbsp; System Design &emsp;&emsp;
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                         EXPERIENCE                                   -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Professional Journey
-
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="140">
-<br>
-<img src="https://img.shields.io/badge/Nov_2025-Present-58a6ff?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-</td>
-<td>
-
-### &nbsp; Junior Software Engineer &ensp; `@` &ensp; Wafi Solutions
-
-> Enterprise applications with **ABP Framework** · **ASP.NET Core** · **Angular** · **PostgreSQL**
+**⚙️ Backend & Frameworks**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![EF](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="140">
-<br>
-<img src="https://img.shields.io/badge/Jun_2025-Present-58a6ff?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-</td>
-<td>
-
-### &nbsp; Junior Software Developer &ensp; `@` &ensp; Gradmate.ai
-
-> Scalable web applications with **Next.js** · **Python (FastAPI)** · Full-Stack Features
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="140">
-<br>
-<img src="https://img.shields.io/badge/Oct_2024-Mar_2025-8892b0?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-</td>
-<td>
-
-### &nbsp; Full Stack Developer Intern &ensp; `@` &ensp; Generation Next IT
-
-> ERP modules · Desktop automation · Crystal Reports · **ASP.NET** · **SQL Server**
-
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🎨 Frontend & UI**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ Data & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
 </table>
-</div>
 
 <br>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                          TECH STACK                                  -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Tech Arsenal
-
-<br>
-
-<!-- ── Languages ── -->
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<br>
-
-<!-- ── Frameworks ── -->
-
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br>
-
-<!-- ── Data & Tools ── -->
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-
-<!-- ── Frontend ── -->
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+**Also proficient in:** `Python` · `Java` · `C/C++` · `PHP` · `OOP` · `Redux` · `OAuth` · `Sequelize` · `TypeORM` · `Mongoose` · `Entity Framework` · `Figma`
 
 </div>
 
 <br>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                      HONORS & AWARDS                                 -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  HONORS & CERTIFICATIONS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+## `$ cat achievements.md`
 
 <div align="center">
 
-## 🏆 &nbsp; Honors & Awards
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/★★-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>Dean's List</strong>
-<br>
-<sub>Fall 2023 & Spring 2023</sub>
-<br>
-<sub><i>AIUB — Academic Excellence</i></sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/💰-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>Merit Scholarship</strong>
-<br>
-<sub>2021 — 2025</sub>
-<br>
-<sub><i>AIUB — Full Duration</i></sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/📊-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>Data Scientist</strong>
-<br>
-<sub>Associate · Python</sub>
-<br>
-<sub><i>DataCamp Certified</i></sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/🌐-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>IT Essentials</strong>
-<br>
-<sub>Certified 2023</sub>
-<br>
-<sub><i>Cisco Academy</i></sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🏐-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>1st Runner-Up</strong>
-<br>
-<sub>Indoor Volleyball 2023</sub>
-<br>
-<sub><i>AIUB Tournament</i></sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/⚜️-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>Rover Scouting</strong>
-<br>
-<sub>2015 — 2019</sub>
-<br>
-<sub><i>Bangladesh Scouts</i></sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/💻-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<strong>Programming Contests</strong>
-<br>
-<sub>2022 — 2024</sub>
-<br>
-<sub><i>Intra-AIUB Competitions</i></sub>
-<br><br>
-</td>
-</tr>
-</table>
+| 🏆 | Achievement | Context |
+|:---:|:---|:---|
+| 🎓 | **Dean's List Honors** (Fall '23 & Spring '23) | AIUB — Top academic performance |
+| 💰 | **Academic Scholarship** (2021–2025) | AIUB — Merit-based full duration |
+| 📊 | **Associate Data Scientist** (Python) | DataCamp — Comprehensive track |
+| 🌐 | **IT Essentials** Certificate | Cisco Networking Academy |
+| 🏐 | **1st Runner-Up** — Indoor Volleyball | AIUB Tournament 2023 |
+| ⚜️ | **Rover Scouting** (2015–2019) | Bangladesh Scouts |
+| 💻 | **Programming Contests** (2022–2024) | Multiple intra-AIUB competitions |
 
 </div>
 
 <br>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                        GITHUB STATS                                  -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+## `$ git log --stat`
 
 <div align="center">
 
-## 📊 &nbsp; GitHub Analytics
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasib2202&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib2202&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,Jupyter%20Notebook" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasib2202&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" /> -->
+<!-- <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib2202&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,Jupyter%20Notebook" /> -->
 
 <br>
 
@@ -342,20 +192,26 @@
 
 <br>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!--                           FOOTER                                     -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+---
+
+```
+ "First, solve the problem. Then, write the code." — John Johnson
+```
 
 <br>
 
 <a href="https://wakatime.com/@fa93ea22-c9ab-4efe-9538-651084c8a593">
-  <img src="https://wakatime.com/badge/user/fa93ea22-c9ab-4efe-9538-651084c8a593.svg?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Total time coded since Sep 2021" />
+  <img src="https://wakatime.com/badge/user/fa93ea22-c9ab-4efe-9538-651084c8a593.svg" alt="Total time coded since Sep 2021" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b2e,60:16213e,100:0f3460&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1b2e,50:161b22,100:0d1117&height=120&section=footer&text=&fontSize=0&reversal=false" width="100%"/>
 
 </div>
