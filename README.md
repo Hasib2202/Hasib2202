@@ -46,45 +46,6 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE TIMELINE                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ cat experience.log`
-
-```
-  Nov 2025 ─── Present
-  │
-  ├─── 🏢 Junior Software Engineer · Wafi Solutions (Full-time)
-  │    │
-  │    ├── Enterprise apps with ABP Framework (ABP.io) + ASP.NET across the full SDLC
-  │    ├── Backend services: C#, ASP.NET Core, Web API, Entity Framework · Clean Architecture
-  │    ├── PostgreSQL — performance tuning & data integrity
-  │    ├── Frontend: Angular + TypeScript
-  │    └── Agile workflow with Jira & Slack
-  │
-  │
-  Jun 2025 ─── Present
-  │
-  ├─── 🚀 Junior Software Developer · Gradmate.ai (Full-time)
-  │    │
-  │    ├── Full-stack features: Next.js (frontend) + Python/FastAPI (backend)
-  │    └── Scalable, user-centric web applications in an agile team
-  │
-  │
-  Oct 2024 ─── Mar 2025
-  │
-  └─── 🧪 Full Stack Developer Intern · Generation Next IT Solution Ltd
-       │
-       ├── ERP modules: E-commerce, Bank Management, Stock, Sales
-       ├── ASP.NET / ASP.NET Core / SQL Server
-       ├── Desktop email reminder app (.NET Framework + SMTP)
-       ├── Crystal Reports for dynamic data-driven reporting
-       └── Production deployments & troubleshooting
-```
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
