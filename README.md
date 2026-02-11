@@ -109,28 +109,6 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  HONORS & CERTIFICATIONS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ cat achievements.md`
-
-<div align="center">
-
-| 🏆 | Achievement | Context |
-|:---:|:---|:---|
-| 🎓 | **Dean's List Honors** (Fall '23 & Spring '23) | AIUB — Top academic performance |
-| 💰 | **Academic Scholarship** (2021–2025) | AIUB — Merit-based full duration |
-| 📊 | **Associate Data Scientist** (Python) | DataCamp — Comprehensive track |
-| 🌐 | **IT Essentials** Certificate | Cisco Networking Academy |
-| 🏐 | **1st Runner-Up** — Indoor Volleyball | AIUB Tournament 2023 |
-| ⚜️ | **Rover Scouting** (2015–2019) | Bangladesh Scouts |
-| 💻 | **Programming Contests** (2022–2024) | Multiple intra-AIUB competitions |
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB ANALYTICS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
