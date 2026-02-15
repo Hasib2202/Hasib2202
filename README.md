@@ -38,7 +38,7 @@
 
 | 🎓 Education | 💼 Current Roles | 🏆 Recognition |
 |:---:|:---:|:---:|
-| B.Sc. in CSE, AIUB | Junior SWE @ Wafi Solutions | Dean's List (2× Semesters) |
+| B.Sc. in CSE, AIUB | Junior SWE @ Wafi Solutions | Dean's List (4× Semesters) |
 | CGPA: **3.91** / 4.00 | Junior SWD @ Gradmate.ai | Academic Scholarship Holder |
 
 </div>
